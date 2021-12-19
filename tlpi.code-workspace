@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"istream": "c",
+			"locale": "c",
+			"un.h": "c",
+			"socket.h": "c",
+			"stdio.h": "c",
+			"stdlib.h": "c",
+			"cstdio": "c",
+			"chat_socket.h": "c"
+		}
+	}
+}

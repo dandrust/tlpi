@@ -1,0 +1,2 @@
+MacOS c headers are in:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys

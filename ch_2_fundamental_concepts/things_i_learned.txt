@@ -1,0 +1,19 @@
+2.5
+File/Directory terminology
+
+pathname is broken into a diretory and a base
+
+directory is zero or more directories
+base may be a directory or a File
+
+pathnames may be absolute (beginning with a reference to the root = `/`) or relative 
+
+
+File IO system calls work with file descriptors, which point to a file via number that the kernel provides
+`stdio` provides the `FILE` file stream abstraction on top of file descriptors
+
+2.7
+fork() - called by parent process.  Creates a new process, the child process
+execve() - replace text, data, heap, and stack with a new program
+
+
